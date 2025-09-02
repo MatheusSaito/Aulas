@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex7Lista",
+            "request": "launch",
+            "mainClass": "Ex7Lista",
+            "projectName": "Aulas_da362070"
+        },
+        {
+            "type": "java",
             "name": "Ex6Lista",
             "request": "launch",
             "mainClass": "Ex6Lista",
